@@ -8,7 +8,7 @@ To get this project running on your local machine, follow these steps:
 
 git clone from this [Github Repository](https://github.com/AlexKChege/Banknote-Authentication.git)
 
-### 2. Create your local branches 
+### 2. Create your local branches
 
 Create your local branches to work on while ensuring your pulling fresh changes from Github i.e `git pull origin main` e.g `EDA-Branch`
 
