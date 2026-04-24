@@ -20,8 +20,6 @@ Download it from [Google Drive](https://drive.google.com/drive/folders/1A_DN1sQ8
 
  Work on the dataset on your respective branches and then push your code to the remote repository on [Github]((https://github.com/AlexKChege/Banknote-Authentication.git)) i.e. `git push origin main`
 
- ### 5. Initiate a Pull Request
+### 5. Initiate a Pull Request
 
  Initiate a PR request so as to kickstart the process of code review, conflict management and eventually merging on to the main branch of the remote repo.
-
-
