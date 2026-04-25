@@ -1,6 +1,6 @@
-# Banknote Authentication Project
+# *Banknote Authentication Project*
 
-## Getting Started
+## **Getting Started**
 
 To get this project running on your local machine, follow these steps:
 
@@ -23,3 +23,25 @@ Download it from [Google Drive](https://drive.google.com/drive/folders/1A_DN1sQ8
 ### 5. Initiate a Pull Request
 
  Initiate a PR request so as to kickstart the process of code review, conflict management and eventually merging on to the main branch of the remote repo.
+
+## **Project Directory Structure**
+
+### 1. Data Folder
+
+Once you download the dataset in the [Google Drive](https://drive.google.com/drive/folders/1A_DN1sQ8TY-6SgQnDEzBaftLPrnBt5kd?usp=drive_link) put that dataset in this folder in order to work with it.`The files within this data folder are untracked as I have kept them in the .gitignore file.`
+
+### 2. Notebooks
+
+This folder is for your experimental code, this just for your brainstorming and breaking things before you finalize on your clean code. `Enjoy you'll need it.`
+
+### 3. Src
+
+This is exclusively for your final clean, bug-free code. THis is what you'll push for evalution and hopefully merging.
+
+### 4. plots
+
+Any plots you might possibly generate within your workflows, ensure you save it into this folder. This is for analysis and easeness in doing documentation and reporting.
+
+-> Once you open the folders, their is a hidden file called .gitkeep it's just a placeholder, just create your new files and leave it as it is.
+
+`Note:` *These project structure is necessary in order to make the repo clean and easy to merge and handle minimal conflicts.*
