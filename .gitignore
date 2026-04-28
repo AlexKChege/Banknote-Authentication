@@ -1,2 +1,3 @@
 # Ignore the data file for the banknote authentication project
 banknote+authentication/data_banknote_authentication.txt
+.ipynb_checkpoints/
