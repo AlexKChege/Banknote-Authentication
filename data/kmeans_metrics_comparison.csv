@@ -1,0 +1,7 @@
+Metric,Original Data,PCA-Reduced Data
+Silhouette Score ↑,0.3280,0.3941
+Davies-Bouldin Index ↓,1.2042,1.0104
+Calinski-Harabasz ↑,788.77,803.92
+Adjusted Rand Index (ARI) ↑,-0.0001,0.0011
+Normalized Mutual Info (NMI) ↑,0.0060,0.0067
+Cluster Alignment Accuracy,50.96%,51.78%
