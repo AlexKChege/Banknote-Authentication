@@ -1,0 +1,8 @@
+"Model: DBSCAN  No PCA  (eps=0.5, min_samples=15)",Score,Type,Notes
+Clusters Found,5,Summary,–
+Noise Points,222 (16.5%),Summary,label == −1
+Silhouette Score,0.1957,Internal,Higher is better  (−1 to 1)
+Davies–Bouldin Index,0.9776,Internal,Lower is better   (≥ 0)
+Calinski–Harabasz Index,257.7639,Internal,Higher is better  (≥ 0)
+Adjusted Rand Index (ARI),0.5493,External,Higher is better  (−1 to 1)
+Normalised Mutual Info (NMI),0.5534,External,Higher is better  (0 to 1)

@@ -1,0 +1,6 @@
+Metric,Metric Type,Better Direction,No PCA (eps=0.5),With PCA (eps=0.6)
+Silhouette Score,Internal,↑ Higher,0.1957,N/A (< 2 clusters)
+Davies–Bouldin Index,Internal,↓ Lower,0.9776,N/A (< 2 clusters)
+Calinski–Harabasz Index,Internal,↑ Higher,257.7639,N/A (< 2 clusters)
+Adjusted Rand Index (ARI),External,↑ Higher,0.5493,-0.0003
+Normalised Mutual Info (NMI),External,↑ Higher,0.5534,0.0013
